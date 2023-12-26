@@ -1,0 +1,1 @@
+// This file will list all the Python Libraries required to run the ecript, such as 'requests' and 'beautifulsoup4'

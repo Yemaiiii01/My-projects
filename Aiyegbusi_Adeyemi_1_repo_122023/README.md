@@ -1,0 +1,1 @@
+## This Markdown file include instructions on how to install and run this script, as well as general information about the project
